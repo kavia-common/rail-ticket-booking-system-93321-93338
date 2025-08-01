@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/rail-ticket-booking-system-93321-93338/rail_ticket_frontend"
+}
